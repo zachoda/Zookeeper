@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/zachoda/Zookeeper#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "kill": "^0.0.2",
+    "kill-port": "^2.0.1",
+    "port": "^0.8.1"
   }
 }
